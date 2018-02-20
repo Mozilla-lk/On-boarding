@@ -1,2 +1,2 @@
-# On-boarding-
-On-boarding process for new members of Mozilla Sri Lanka
+# On-boarding process and guidelines for Mozilla Sri Lanka members
+
